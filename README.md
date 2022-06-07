@@ -18,4 +18,4 @@
 
 <p align="left"> <img width="0em" height="0em" src="https://komarev.com/ghpvc/?username=dystopiandev&label=Profile%20views&color=0e75b6&style=flat" alt="dystopiandev" /> </p>
 
-<p align="left"><img height="160em" src="https://github-profile-trophy.vercel.app/?username=dystopiandev" alt="dystopiandev" /> </p>
+<p align="left"><img height="180em" src="https://github-profile-trophy.vercel.app/?username=dystopiandev" alt="dystopiandev" /> </p>
