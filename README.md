@@ -9,11 +9,11 @@
 <a href="https://instagram.com/dystopiandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dystopiandev" height="32" width="32" /></a>
 </p>
 
-<p>&nbsp;<img height="128em" align="center" src="https://github-readme-stats.vercel.app/api?username=dystopiandev&show_icons=true&count_private=true&locale=en" alt="dystopiandev" />
-  <img height="128em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dystopiandev&" alt="dystopiandev" />
+<p>&nbsp;<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=dystopiandev&show_icons=true&count_private=true&locale=en" alt="dystopiandev" />
+  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dystopiandev&" alt="dystopiandev" />
 </p>
 
 
 <p align="left"> <img width="0em" height="0em" src="https://komarev.com/ghpvc/?username=dystopiandev&label=Profile%20views&color=0e75b6&style=flat" alt="dystopiandev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dystopiandev" alt="dystopiandev" /></a> </p>
+<p align="left"><img height="160em" src="https://github-profile-trophy.vercel.app/?username=dystopiandev" alt="dystopiandev" /> </p>
